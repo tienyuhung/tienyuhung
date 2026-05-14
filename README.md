@@ -78,3 +78,4 @@ Led front-end design research for client projects; managed the Qi-Xiang design m
 |---|---|---|
 | National Taiwan University of Science and Technology 國立臺灣科技大學 | Graduate School of Design 設計所 | 2026 – 2028 |
 | Shih Chien University 實踐大學 | Industrial Product Design 工業產品設計系 | 2006 – 2010 |
+
