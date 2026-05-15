@@ -1,5 +1,3 @@
-<div align="center">
-
 # Salem Tien-Yu Hung　洪天彧
 
 ### Designer · Founder · Researcher
@@ -18,8 +16,6 @@
 ![](https://img.shields.io/badge/Enjoy_Driving-E74C3C?style=flat-square)
 ![](https://img.shields.io/badge/Toy_Collector-8E44AD?style=flat-square)
 ![](https://img.shields.io/badge/Photobuff-1ABC9C?style=flat-square)
-
-</div>
 
 ---
 
